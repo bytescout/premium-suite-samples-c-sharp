@@ -44,6 +44,8 @@
 \Convert html to docx with pdf sdk
 \Convert html to pdf with pdf sdk
 \Convert pdf to 1-bit bmp with pdf renderer sdk
+\Convert PDF to Black and White
+\Convert PDF to Black and White Excluding some page
 \Convert pdf to bmp with pdf renderer sdk
 \Convert PDF To CSV (Merge multiline text to table cell) with PDF Extractor SDK
 \Convert PDF To CSV By Pages with PDF Extractor SDK
